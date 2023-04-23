@@ -10,6 +10,7 @@ Overall, this course can be split up into the following three parts:
 1.3 Training loop 
 1.4 Inference (Digit classifier window)
 1.5 Build own layers
+1.6 Plot a model
 
 2. Tensor Operations
 2.1 Motivation: No For loops
