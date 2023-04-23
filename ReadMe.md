@@ -1,7 +1,7 @@
 # TensorFlow Crash Course
 
 This repository contains all files belonging to the TensorFlow Crash Course of the Deep Reinforcement Learning Course.
-Overall, this course can be split up into the following three parts:
+Overall, this crash course can be split up into the following three parts:
 
 ```
 1. Model and Training
@@ -34,8 +34,8 @@ Overall, this course can be split up into the following three parts:
 ```
 
 In part 1 the development of a digit classifier is presented. 
-The user can draw in a box (left). 
-Meanwhile the current prediction by the neural network is shown based on this drawing (right.)
+The user can draw digits in a box (left). 
+Meanwhile the current prediction by the neural network based on this drawing is visualized (right).
 
 ![Train and test loss](./media/DigitClassifier.png)
 
