@@ -3,6 +3,7 @@
 This repository contains all files belonging to the TensorFlow Crash Course of the Deep Reinforcement Learning Course.
 Overall, this course can be split up into the following three parts:
 
+```
 1. Model and Training
 1.1 Dataset 
 1.2 Model
@@ -29,6 +30,9 @@ Overall, this course can be split up into the following three parts:
 3.1 Colorize Tim's Garden
 3.2 Pairwise Concatenation
 3.3 Tensor Broadcasting
+```
+
+![Train and test loss](./media/DigitClassifier.png)
 
 ## Requirements
 
