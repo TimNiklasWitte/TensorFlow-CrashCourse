@@ -32,6 +32,10 @@ Overall, this course can be split up into the following three parts:
 3.3 Tensor Broadcasting
 ```
 
+In part 1 the development of a digit classifier is presented. 
+The user can draw in a box (left). 
+Meanwhile the current prediction by the neural network is shown based on this drawing (right.)
+
 ![Train and test loss](./media/DigitClassifier.png)
 
 ## Requirements
