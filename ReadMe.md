@@ -21,10 +21,12 @@ Overall, this crash course can be split up into the following three parts:
 2.6 Matrix Multiplication
 2.7 Tensor Modications
 2.7.1 Add and remove dimensions
-2.7.2 Concatenate
-2.7.3 Stack
-2.7.4 Stacking based on concatenation
-2.7.5 Duplication
+2.7.2 Transpose
+2.7.3 Reshape
+2.7.4 Concatenate
+2.7.5 Stack
+2.7.6 Stacking based on concatenation
+2.7.7 Duplication
 2.8 Tensor Broadcasting
 
 3. Exercises
